@@ -1,0 +1,3 @@
+<input [control]="loginForm.login" placeholder="Login">
+<input [control]="loginForm.password">
+{{ loginForm().value() | json }}
