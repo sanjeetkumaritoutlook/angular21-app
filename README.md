@@ -32,9 +32,17 @@ https://angular.dev/ai/develop-with-ai
 
 - Do NOT use the `@HostBinding` and `@HostListener` decorators. Put host bindings inside the `host` object of the `@Component` or `@Directive` decorator instead
 
+Interview: https://medium.com/devinsight/angular-interview-q-a-day-21-6463a63a195d
 
 tree-shaking
 
+https://houseofangular.io/modern-angular/
 
+https://www.dolmen.tools/en/angular/caniuse/explorer
 
+![Angular Roadmap](angular_roadmap.jpeg)
+
+MCP tools
+
+https://github.com/angular/angular-cli/issues/31097
 
