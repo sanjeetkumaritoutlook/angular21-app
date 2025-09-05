@@ -4,9 +4,10 @@ import { LoginPage } from './login-page/login-page';
 import { FormPage } from './form-page/form-page';
 import { SignupPage } from './signup-page/signup-page';
 import { LoginForm } from './login-form/login-form';
+import { RegistrationPage } from './registration-page/registration-page';
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet,LoginPage,FormPage,SignupPage,LoginForm],
+  imports: [RouterOutlet,LoginPage,FormPage,SignupPage,LoginForm,RegistrationPage],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
