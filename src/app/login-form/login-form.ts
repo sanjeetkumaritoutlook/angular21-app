@@ -26,6 +26,6 @@ constructor(){
 }
 
 submitForm(){
-  submit(this.userForm,()=>new Promise(resolve=> setTimeout(resolve,1000)));
+  submit(this.userForm,()=>new Promise(resolve=> resolve()));
 }
 }
