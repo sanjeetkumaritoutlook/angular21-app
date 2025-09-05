@@ -7,3 +7,4 @@ With Angular Signals (16+) →
 ✅ Zero Hassle
 ![rxjs operators](rxjs_operators.png)
 ![signals](signals.jpeg)
+![signals1](signals_cheatsheet.jpeg)
