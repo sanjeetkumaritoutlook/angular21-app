@@ -34,6 +34,8 @@ https://angular.dev/ai/develop-with-ai
 
 Interview: https://medium.com/devinsight/angular-interview-q-a-day-21-6463a63a195d
 
+https://learn-with-bittu.vercel.app/interview-preparation
+
 tree-shaking
 
 https://houseofangular.io/modern-angular/
