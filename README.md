@@ -1,5 +1,7 @@
 # Angular21App
 
+Build with AI: https://angular.dev/ai
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.0-next.2.
 
 Angular version 21.0 is scheduled for release in the week of November 17, 2025.
@@ -48,3 +50,20 @@ MCP tools
 
 https://github.com/angular/angular-cli/issues/31097
 
+## app.module.ts and app.config.ts
+
+https://angular.dev/tutorials/learn-angular/12-enable-routing
+
+https://medium.com/@saumya.tripathi05062000/app-config-ts-vs-app-module-ts-in-angular-1e096876dea4
+
+adobe spectrum web components:  https://github.com/adobe/spectrum-web-components
+
+https://www.npmjs.com/package/@spectrum-web-components/button
+
+## FE and nodejs
+
+https://github.com/bittu1040/Daily-Task-Tracker
+
+https://github.com/bittu1040/Backend-Node
+
+https://daily-tasks-tracker.vercel.app/login
