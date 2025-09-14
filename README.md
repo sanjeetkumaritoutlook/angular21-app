@@ -67,3 +67,25 @@ https://github.com/bittu1040/Daily-Task-Tracker
 https://github.com/bittu1040/Backend-Node
 
 https://daily-tasks-tracker.vercel.app/login
+
+## mcp server
+
+https://www.dolmen.tools/en/angular/mcp-server
+
+https://x.com/GeromeDEV/status/1966758746534604969
+
+https://geromegrignon.substack.com/p/1-angular-digest
+
+https://www.angular-hub.com/
+
+version wise : https://www.dolmen.tools/en/angular/caniuse/explorer
+
+```
+{
+  "servers": {
+    "@dolmen-tools/ng-mcp-server": {
+      "url": "https://www.dolmen.tools/api/angular/mcp"
+    }
+  }
+}
+```
