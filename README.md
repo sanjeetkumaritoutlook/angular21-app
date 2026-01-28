@@ -89,3 +89,19 @@ version wise : https://www.dolmen.tools/en/angular/caniuse/explorer
   }
 }
 ```
+
+
+## angular interview 
+https://github.com/bittu1040/Learn-with-Bittu
+
+https://learn-with-bittu.vercel.app/interview-preparation
+
+https://github.com/ishwar-panchariya/developer-resources
+
+https://developer-resources-weld.vercel.app/home
+
+https://github.com/johnpapa
+
+https://github.com/johnpapa/angular-styleguide
+
+https://github.com/bittu1040/
